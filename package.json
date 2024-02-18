@@ -1,0 +1,17 @@
+{
+  "name": "lighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lighthouse-ci": "npx lhci autorun"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lhci/cli": "^0.13.0",
+    "@lhci/server": "^0.13.0",
+    "sqlite3": "^5.1.7"
+  }
+}
